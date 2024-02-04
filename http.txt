@@ -1,0 +1,1 @@
+HTTP is the standard protocol by which webpages are transferred over the Internet.
